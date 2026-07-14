@@ -21,7 +21,7 @@ This is a simple two-player *Congklak* (Mancala variant from Indonesia) game bui
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/congklak_game.git
+    git clone https://github.com/hafizhaqolby/congklak_game.git
     cd congklak_game
     ```
 
